@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.12"
+
+[[package]]
+name = "f5369168-a166-42f9-a4fc-0d369273b86c"
+version = "0.1.0"
+source = { virtual = "." }
